@@ -1,0 +1,91 @@
+string[,] valueArray = new string[,2]
+{
+	{"*-","dah-dit"},//A
+	{"-***","dah-di-di-dit"},//B
+	{"-*-*","dah-di-dah-dit"},//C
+	{ "-\u2022\u2022","dah-di-dit" },//D
+	{ "\u2022","dit" },//E
+	{ "\u2022\u2022-\u2022","di-di-dah-dit" },//F
+	{ "--\u2022","dah-dah-dit" },//G
+	{ "\u2022\u2022\u2022\u2022","di-di-di-dit" },//H
+	{ "\u2022\u2022","di-dit" },//I
+	{ "\u2022---","di-dah-dah-dah" },//J
+	{ "-*-,"dah-di-dah" },//K
+	{ "*-**","dah-di-dah-dah" },//L
+	{ "--","dah-dah" },//M
+	{ "-*","dah-dit" },//N
+	{ "---","dah-dah-dah" },//O
+	{ "*--*","di-dah-dah-dit" },//P
+	{ "--*-","dah-dah-di-dah" },//Q
+	{ "*-*","di-dah-dit" },//R
+	{ "***","di-di-dit" },//S
+	{ "-","dah" },//T
+	{ "**-","di-di-dah" },//U
+	{ "***-","di-di-di-dah" },//V
+	{ "*--","di-dah-dah" },//W
+	{"-**-","dah-di-di-dah"},//X
+	{"-*--","dah-di-dah-dah"},//Y
+	{"--**","dah-dah-di-dit"},//Z
+	{"-----","dah-dah-dah-dah-dah"},//0
+	{"*----","di-dah-dah-dah-dah"},//1
+	{"**---","di-di-dah-dah-dah"},//2
+	{"***--","di-di-di-dah-dah"},//3
+	{"****-","di-di-di-di-dah"},//4
+	{"*****","di-di-di-di-dit"},//5
+	{"-****","dah-di-di-di-dit"},//6
+	{"--***","dah-dah-di-di-dit"},//7
+	{"---**","dah-dah-dah-di-dit"},//8
+	{"----*","dah-dah-dah-dah-dit"},//9
+	{"*-*-*-","di-dah-di-dah-di-dah"},//"."
+	{"--**--","dah-dah-di-di-dah-dah"},//","
+	{"**--**","di-di-dah-dah-di-dit"},//"?"
+	{"*----*","di-dah-dah-dah-dah-dit"},//"'"
+	{"-*-*--","dah-di-dah-di-dah-dah"},//"!"
+	{"-**-*","dah-di-di-dah-dit"},//"/"
+	{"-*--*","dah-di-dah-dah-dit"},//"("
+	{"-*--*-","dah-di-dah-dah-di-dah"},//")"
+	{"*-***","di-dah-di-di-dit"},//"&"
+	{"---***","dah-dah-dah-di-di-dit"},//":"
+	{"-*-*-*","dah-di-dah-di-dah-dit"},//";"
+	{"-***-","dah-di-di-di-dah"},//"="
+	{"*-*-*","di-dah-di-dah-dit"},//"+"
+	{"-****-","dah-di-di-di-di-dah"},//"-"
+	{"**--*-","di-di-dah-dah-di-dah"},//"_"
+	{"*-**-*","di-dah-di-di-dah-dit"},//"
+	{"***-**-","di-di-di-dah-di-di-dah"},//$
+	{"*--*-*","di-dah-dah-di-dah-dit"}//@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
